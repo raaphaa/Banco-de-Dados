@@ -1,0 +1,260 @@
+{
+	"folders": {},
+	"connections": {
+		"dbeaver-sample-database-sqlite-1": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "DBeaver Sample Database (SQLite)",
+			"save-password": true,
+			"show-system-objects": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\Residencia2021.2\\AppData\\Roaming\\DBeaverData\\workspace6\\.metadata\\sample-database-sqlite-1\\Chinook.db",
+				"url": "jdbc:sqlite:C:\\Users\\Residencia2021.2\\AppData\\Roaming\\DBeaverData\\workspace6\\.metadata\\sample-database-sqlite-1\\Chinook.db",
+				"type": "dev"
+			}
+		},
+		"postgres-jdbc-17be6ef4c71-1c51772c8f24ffb5": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "spotfy",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "spotfy",
+				"url": "jdbc:postgresql://localhost:5432/spotfy",
+				"home": "postgresql-x64-9.3",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-show-template-db@": "false",
+					"@dbeaver-show-unavailable-db@": "false",
+					"show-database-statistics": "false",
+					"@dbeaver-read-all-data-types-db@": "false",
+					"@dbeaver-use-prepared-statements-db@": "false",
+					"postgresql.dd.plain.string": "false",
+					"postgresql.dd.tag.string": "false"
+				},
+				"auth-model": "native"
+			}
+		},
+		"postgres-jdbc-17beacea674-2ae7eab7475fdef8": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "cinema",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "cinema",
+				"url": "jdbc:postgresql://localhost:5432/cinema",
+				"home": "postgresql-x64-9.3",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-show-template-db@": "false",
+					"@dbeaver-show-unavailable-db@": "false",
+					"show-database-statistics": "false",
+					"@dbeaver-read-all-data-types-db@": "false",
+					"@dbeaver-use-prepared-statements-db@": "false",
+					"postgresql.dd.plain.string": "false",
+					"postgresql.dd.tag.string": "false"
+				},
+				"auth-model": "native"
+			}
+		},
+		"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "comercioVarejista",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "comercioVarejista",
+				"url": "jdbc:postgresql://localhost:5432/comercioVarejista",
+				"home": "postgresql-x64-9.3",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-show-template-db@": "false",
+					"@dbeaver-show-unavailable-db@": "false",
+					"show-database-statistics": "false",
+					"@dbeaver-read-all-data-types-db@": "false",
+					"@dbeaver-use-prepared-statements-db@": "false",
+					"postgresql.dd.plain.string": "false",
+					"postgresql.dd.tag.string": "false"
+				},
+				"auth-model": "native"
+			}
+		},
+		"sqlite_jdbc-17bf0a367e9-ff98bd7597e391e": {
+			"provider": "sqlite",
+			"driver": "sqlite_jdbc",
+			"name": "spotifyMalu.db",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"database": "C:\\Users\\Residencia2021.2\\Desktop\\BD\\spotify.db",
+				"url": "jdbc:sqlite:C:\\Users\\Residencia2021.2\\Desktop\\BD\\spotify.db",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		},
+		"postgres-jdbc-17c89ef641f-31156e6203dd4bab": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "postgres",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "postgres",
+				"url": "jdbc:postgresql://localhost:5432/postgres",
+				"home": "postgresql-x64-9.3",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-show-template-db@": "false",
+					"@dbeaver-show-unavailable-db@": "false",
+					"show-database-statistics": "false",
+					"@dbeaver-read-all-data-types-db@": "false",
+					"@dbeaver-use-prepared-statements-db@": "false",
+					"postgresql.dd.plain.string": "false",
+					"postgresql.dd.tag.string": "false"
+				},
+				"auth-model": "native"
+			}
+		},
+		"postgres-jdbc-17c990759a6-7389ff3be99ac46": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "bancoteste",
+			"save-password": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "bancoteste",
+				"url": "jdbc:postgresql://localhost:5432/bancoteste",
+				"home": "postgresql-x64-9.3",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-show-template-db@": "false",
+					"@dbeaver-show-unavailable-db@": "false",
+					"show-database-statistics": "false",
+					"@dbeaver-read-all-data-types-db@": "false",
+					"@dbeaver-use-prepared-statements-db@": "false",
+					"postgresql.dd.plain.string": "false",
+					"postgresql.dd.tag.string": "false"
+				},
+				"auth-model": "native",
+				"handlers": {}
+			}
+		}
+	},
+	"virtual-models": {
+		"postgres-jdbc-17be6ef4c71-1c51772c8f24ffb5": {
+			"spotfy": {
+				"public": {
+					"@properties": {
+						"erd.diagram.state": {
+							"serialized": "<diagram version=\"1\" name=\"public\" time=\"202109152020\"><entities><data-source id=\"postgres-jdbc-17be6ef4c71-1c51772c8f24ffb5\"><entity id=\"1\" name=\"artista\" fq-name=\"public.artista\" order=\"0\" x=\"557\" y=\"18\"><path name=\"public\"/><path name=\"spotfy\"/></entity><entity id=\"2\" name=\"artista_genero\" fq-name=\"public.artista_genero\" order=\"1\" x=\"292\" y=\"23\"><path name=\"public\"/><path name=\"spotfy\"/></entity><entity id=\"3\" name=\"genero\" fq-name=\"public.genero\" order=\"2\" x=\"56\" y=\"34\"><path name=\"public\"/><path name=\"spotfy\"/></entity><entity id=\"4\" name=\"musica\" fq-name=\"public.musica\" order=\"3\" x=\"570\" y=\"192\"><path name=\"public\"/><path name=\"spotfy\"/></entity><entity id=\"5\" name=\"pais\" fq-name=\"public.pais\" order=\"4\" x=\"64\" y=\"215\"><path name=\"public\"/><path name=\"spotfy\"/></entity><entity id=\"6\" name=\"pais_musica\" fq-name=\"public.pais_musica\" order=\"5\" x=\"301\" y=\"214\"><path name=\"public\"/><path name=\"spotfy\"/></entity></data-source></entities><relations><relation name=\"artista_genero_id_artista_fkey\" fq-name=\"public.artista_genero.artista_genero_id_artista_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"2\"/><relation name=\"musica_id_artista_fkey\" fq-name=\"public.musica.musica_id_artista_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"4\"/><relation name=\"artista_genero_id_genero_fkey\" fq-name=\"public.artista_genero.artista_genero_id_genero_fkey\" type=\"fk\" pk-ref=\"3\" fk-ref=\"2\"/><relation name=\"pais_musica_id_musica_fkey\" fq-name=\"public.pais_musica.pais_musica_id_musica_fkey\" type=\"fk\" pk-ref=\"4\" fk-ref=\"6\"/><relation name=\"pais_musica_id_pais_fkey\" fq-name=\"public.pais_musica.pais_musica_id_pais_fkey\" type=\"fk\" pk-ref=\"5\" fk-ref=\"6\"/></relations></diagram>"
+						}
+					}
+				}
+			}
+		},
+		"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634": {
+			"comercioVarejista": {
+				"public": {
+					"@properties": {
+						"erd.diagram.state": {
+							"serialized": "<diagram version=\"1\" name=\"public\" time=\"202109201107\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"categoria\" fq-name=\"public.categoria\" order=\"0\" x=\"955\" y=\"84\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"cliente\" fq-name=\"public.cliente\" order=\"1\" x=\"43\" y=\"44\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"3\" name=\"controle_de_estoque\" fq-name=\"public.controle_de_estoque\" order=\"2\" x=\"943\" y=\"574\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"4\" name=\"endereco\" fq-name=\"public.endereco\" order=\"3\" x=\"54\" y=\"276\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"5\" name=\"envio\" fq-name=\"public.envio\" order=\"4\" x=\"233\" y=\"379\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"6\" name=\"estoque\" fq-name=\"public.estoque\" order=\"5\" x=\"425\" y=\"237\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"7\" name=\"estoque_dos_produtos\" fq-name=\"public.estoque_dos_produtos\" order=\"6\" x=\"712\" y=\"576\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"8\" name=\"funcionario\" fq-name=\"public.funcionario\" order=\"7\" x=\"667\" y=\"360\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"9\" name=\"nota_fiscal\" fq-name=\"public.nota_fiscal\" order=\"8\" x=\"1092\" y=\"288\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"10\" name=\"pedido\" fq-name=\"public.pedido\" order=\"9\" x=\"253\" y=\"47\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"11\" name=\"produto\" fq-name=\"public.produto\" order=\"10\" x=\"750\" y=\"50\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"12\" name=\"produto_funcionario\" fq-name=\"public.produto_funcionario\" order=\"11\" x=\"862\" y=\"335\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"13\" name=\"produto_pedido\" fq-name=\"public.produto_pedido\" order=\"12\" x=\"471\" y=\"53\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"14\" name=\"produtos_geridos_por_funcionario\" fq-name=\"public.produtos_geridos_por_funcionario\" order=\"13\" x=\"489\" y=\"579\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"15\" name=\"relatorio_de_vendas\" fq-name=\"public.relatorio_de_vendas\" order=\"14\" x=\"1092\" y=\"9\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"produto_cod_categoria_fkey\" fq-name=\"public.produto.produto_cod_categoria_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"11\"/><relation name=\"pedido_cod_cliente_fkey\" fq-name=\"public.pedido.pedido_cod_cliente_fkey\" type=\"fk\" pk-ref=\"2\" fk-ref=\"10\"/><relation name=\"cliente_cod_endereco_fkey\" fq-name=\"public.cliente.cliente_cod_endereco_fkey\" type=\"fk\" pk-ref=\"4\" fk-ref=\"2\"/><relation name=\"funcionario_cod_endereco_fkey\" fq-name=\"public.funcionario.funcionario_cod_endereco_fkey\" type=\"fk\" pk-ref=\"4\" fk-ref=\"8\"><bend type=\"abs\" x=\"175\" y=\"548\"/></relation><relation name=\"produto_cod_estoque_fkey\" fq-name=\"public.produto.produto_cod_estoque_fkey\" type=\"fk\" pk-ref=\"6\" fk-ref=\"11\"/><relation name=\"envio_cod_funcionario_fkey\" fq-name=\"public.envio.envio_cod_funcionario_fkey\" type=\"fk\" pk-ref=\"8\" fk-ref=\"5\"/><relation name=\"produto_funcionario_cod_funcionario_fkey\" fq-name=\"public.produto_funcionario.produto_funcionario_cod_funcionario_fkey\" type=\"fk\" pk-ref=\"8\" fk-ref=\"12\"/><relation name=\"envio_cod_pedido_fkey\" fq-name=\"public.envio.envio_cod_pedido_fkey\" type=\"fk\" pk-ref=\"10\" fk-ref=\"5\"/><relation name=\"produto_pedido_cod_pedido_fkey\" fq-name=\"public.produto_pedido.produto_pedido_cod_pedido_fkey\" type=\"fk\" pk-ref=\"10\" fk-ref=\"13\"/><relation name=\"produto_funcionario_cod_produto_fkey\" fq-name=\"public.produto_funcionario.produto_funcionario_cod_produto_fkey\" type=\"fk\" pk-ref=\"11\" fk-ref=\"12\"/><relation name=\"produto_pedido_cod_produto_fkey\" fq-name=\"public.produto_pedido.produto_pedido_cod_produto_fkey\" type=\"fk\" pk-ref=\"11\" fk-ref=\"13\"/></relations></diagram>"
+						}
+					},
+					":categoria": {
+						"properties": {
+							"erd.diagram.state": {
+								"serialized": "<diagram version=\"1\" name=\"categoria\" time=\"202109171017\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"categoria\" fq-name=\"public.categoria\" order=\"0\" color-bg=\"128,64,32\" x=\"86\" y=\"44\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"produto\" fq-name=\"public.produto\" order=\"1\" x=\"84\" y=\"212\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"produto_cod_categoria_fkey\" fq-name=\"public.produto.produto_cod_categoria_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"2\"/></relations></diagram>"
+							}
+						}
+					},
+					":cliente": {
+						"properties": {
+							"erd.diagram.state": {
+								"serialized": "<diagram version=\"1\" name=\"cliente\" time=\"202109171249\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"cliente\" fq-name=\"public.cliente\" order=\"0\" color-bg=\"128,64,32\" x=\"44\" y=\"13\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"endereco\" fq-name=\"public.endereco\" order=\"1\" x=\"47\" y=\"242\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"3\" name=\"pedido\" fq-name=\"public.pedido\" order=\"2\" x=\"345\" y=\"70\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"pedido_cod_cliente_fkey\" fq-name=\"public.pedido.pedido_cod_cliente_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"3\"/><relation name=\"cliente_cod_endereco_fkey\" fq-name=\"public.cliente.cliente_cod_endereco_fkey\" type=\"fk\" pk-ref=\"2\" fk-ref=\"1\"/></relations></diagram>"
+							}
+						}
+					},
+					":envio": {
+						"properties": {
+							"erd.diagram.state": {
+								"serialized": "<diagram version=\"1\" name=\"envio\" time=\"202109171022\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"envio\" fq-name=\"public.envio\" order=\"0\" color-bg=\"128,64,32\" x=\"41\" y=\"200\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"funcionario\" fq-name=\"public.funcionario\" order=\"1\" x=\"344\" y=\"154\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"3\" name=\"pedido\" fq-name=\"public.pedido\" order=\"2\" x=\"51\" y=\"19\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"envio_cod_funcionario_fkey\" fq-name=\"public.envio.envio_cod_funcionario_fkey\" type=\"fk\" pk-ref=\"2\" fk-ref=\"1\"/><relation name=\"envio_cod_pedido_fkey\" fq-name=\"public.envio.envio_cod_pedido_fkey\" type=\"fk\" pk-ref=\"3\" fk-ref=\"1\"/></relations></diagram>"
+							}
+						}
+					},
+					":estoque": {
+						"properties": {
+							"erd.diagram.state": {
+								"serialized": "<diagram version=\"1\" name=\"estoque\" time=\"202109171023\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"estoque\" fq-name=\"public.estoque\" order=\"0\" color-bg=\"128,64,32\" x=\"184\" y=\"176\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"produto\" fq-name=\"public.produto\" order=\"1\" x=\"461\" y=\"21\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"3\" name=\"funcionario\" fq-name=\"public.funcionario\" order=\"2\" x=\"449\" y=\"274\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"produto_cod_estoque_fkey\" fq-name=\"public.produto.produto_cod_estoque_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"2\"/><relation name=\"funcionario_cod_estoque_fkey\" fq-name=\"public.funcionario.funcionario_cod_estoque_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"3\"><bend type=\"abs\" x=\"343\" y=\"339\"/></relation></relations></diagram>"
+							}
+						}
+					},
+					":funcionario": {
+						"properties": {
+							"erd.diagram.state": {
+								"serialized": "<diagram version=\"1\" name=\"funcionario\" time=\"202109171249\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"funcionario\" fq-name=\"public.funcionario\" order=\"0\" color-bg=\"128,64,32\" x=\"502\" y=\"129\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"endereco\" fq-name=\"public.endereco\" order=\"1\" x=\"38\" y=\"174\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"3\" name=\"estoque\" fq-name=\"public.estoque\" order=\"2\" x=\"222\" y=\"45\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"4\" name=\"produto_funcionario\" fq-name=\"public.produto_funcionario\" order=\"3\" x=\"774\" y=\"173\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"5\" name=\"envio\" fq-name=\"public.envio\" order=\"4\" x=\"255\" y=\"217\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"produto_funcionario_cod_funcionario_fkey\" fq-name=\"public.produto_funcionario.produto_funcionario_cod_funcionario_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"4\"/><relation name=\"envio_cod_funcionario_fkey\" fq-name=\"public.envio.envio_cod_funcionario_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"5\"/><relation name=\"funcionario_cod_endereco_fkey\" fq-name=\"public.funcionario.funcionario_cod_endereco_fkey\" type=\"fk\" pk-ref=\"2\" fk-ref=\"1\"><bend type=\"abs\" x=\"185\" y=\"442\"/></relation><relation name=\"funcionario_cod_estoque_fkey\" fq-name=\"public.funcionario.funcionario_cod_estoque_fkey\" type=\"fk\" pk-ref=\"3\" fk-ref=\"1\"/></relations></diagram>"
+							}
+						}
+					},
+					":pedido": {
+						"properties": {
+							"erd.diagram.state": {
+								"serialized": "<diagram version=\"1\" name=\"pedido\" time=\"202109171024\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"pedido\" fq-name=\"public.pedido\" order=\"0\" color-bg=\"128,64,32\" x=\"242\" y=\"87\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"cliente\" fq-name=\"public.cliente\" order=\"1\" x=\"21\" y=\"38\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"3\" name=\"produto_pedido\" fq-name=\"public.produto_pedido\" order=\"2\" x=\"494\" y=\"35\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"4\" name=\"envio\" fq-name=\"public.envio\" order=\"3\" x=\"232\" y=\"302\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"produto_pedido_cod_pedido_fkey\" fq-name=\"public.produto_pedido.produto_pedido_cod_pedido_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"3\"/><relation name=\"envio_cod_pedido_fkey\" fq-name=\"public.envio.envio_cod_pedido_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"4\"/><relation name=\"pedido_cod_cliente_fkey\" fq-name=\"public.pedido.pedido_cod_cliente_fkey\" type=\"fk\" pk-ref=\"2\" fk-ref=\"1\"/></relations></diagram>"
+							}
+						}
+					},
+					":produto": {
+						"properties": {
+							"erd.diagram.state": {
+								"serialized": "<diagram version=\"1\" name=\"produto\" time=\"202109171029\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"produto\" fq-name=\"public.produto\" order=\"0\" color-bg=\"128,64,32\" x=\"326\" y=\"155\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"categoria\" fq-name=\"public.categoria\" order=\"1\" x=\"327\" y=\"21\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"3\" name=\"estoque\" fq-name=\"public.estoque\" order=\"2\" x=\"8\" y=\"311\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"4\" name=\"produto_pedido\" fq-name=\"public.produto_pedido\" order=\"3\" x=\"35\" y=\"136\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"5\" name=\"produto_funcionario\" fq-name=\"public.produto_funcionario\" order=\"4\" x=\"411\" y=\"409\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"produto_pedido_cod_produto_fkey\" fq-name=\"public.produto_pedido.produto_pedido_cod_produto_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"4\"/><relation name=\"produto_funcionario_cod_produto_fkey\" fq-name=\"public.produto_funcionario.produto_funcionario_cod_produto_fkey\" type=\"fk\" pk-ref=\"1\" fk-ref=\"5\"/><relation name=\"produto_cod_categoria_fkey\" fq-name=\"public.produto.produto_cod_categoria_fkey\" type=\"fk\" pk-ref=\"2\" fk-ref=\"1\"/><relation name=\"produto_cod_estoque_fkey\" fq-name=\"public.produto.produto_cod_estoque_fkey\" type=\"fk\" pk-ref=\"3\" fk-ref=\"1\"/></relations></diagram>"
+							}
+						}
+					},
+					":produto_funcionario": {
+						"properties": {
+							"erd.diagram.state": {
+								"serialized": "<diagram version=\"1\" name=\"produto_funcionario\" time=\"202109171029\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"produto_funcionario\" fq-name=\"public.produto_funcionario\" order=\"0\" color-bg=\"128,64,32\" x=\"520\" y=\"227\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"funcionario\" fq-name=\"public.funcionario\" order=\"1\" x=\"221\" y=\"300\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"3\" name=\"produto\" fq-name=\"public.produto\" order=\"2\" x=\"227\" y=\"35\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"produto_funcionario_cod_funcionario_fkey\" fq-name=\"public.produto_funcionario.produto_funcionario_cod_funcionario_fkey\" type=\"fk\" pk-ref=\"2\" fk-ref=\"1\"/><relation name=\"produto_funcionario_cod_produto_fkey\" fq-name=\"public.produto_funcionario.produto_funcionario_cod_produto_fkey\" type=\"fk\" pk-ref=\"3\" fk-ref=\"1\"/></relations></diagram>"
+							}
+						}
+					},
+					":produto_pedido": {
+						"properties": {
+							"erd.diagram.state": {
+								"serialized": "<diagram version=\"1\" name=\"produto_pedido\" time=\"202109171016\"><entities><data-source id=\"postgres-jdbc-17beb3a899e-23c5d5b44a3a5634\"><entity id=\"1\" name=\"produto_pedido\" fq-name=\"public.produto_pedido\" order=\"0\" color-bg=\"128,64,32\" x=\"187\" y=\"55\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"2\" name=\"pedido\" fq-name=\"public.pedido\" order=\"1\" x=\"12\" y=\"57\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity><entity id=\"3\" name=\"produto\" fq-name=\"public.produto\" order=\"2\" x=\"424\" y=\"52\"><path name=\"public\"/><path name=\"comercioVarejista\"/></entity></data-source></entities><relations><relation name=\"produto_pedido_cod_pedido_fkey\" fq-name=\"public.produto_pedido.produto_pedido_cod_pedido_fkey\" type=\"fk\" pk-ref=\"2\" fk-ref=\"1\"/><relation name=\"produto_pedido_cod_produto_fkey\" fq-name=\"public.produto_pedido.produto_pedido_cod_produto_fkey\" type=\"fk\" pk-ref=\"3\" fk-ref=\"1\"/></relations></diagram>"
+							}
+						}
+					}
+				}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false,
+			"auto-close-transactions": false
+		}
+	}
+}
